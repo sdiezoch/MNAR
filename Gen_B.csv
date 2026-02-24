@@ -1,0 +1,3 @@
+sim_id,method,P_R,dist_1,dist_1_param_1,dist_1_param_2,dist_2,dist_2_param_1,dist_2_param_2,lim_inf,lim_sup
+Qm,Mezcla,0.5,normal,8,2,normal,5.5,1.5,,
+Qs,Seleccion,0.5,gamma,7,1,normal,10,3,,
